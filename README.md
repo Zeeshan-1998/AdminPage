@@ -1,4 +1,4 @@
-# Getting Started with Admin Page App
+# Getting Started with Admin Side Application
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
